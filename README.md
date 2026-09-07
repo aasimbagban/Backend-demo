@@ -1,1 +1,1 @@
-## this is practice demo by chai or code 
+## this is a practice demo for backend authentication and authorization and database modeling 
